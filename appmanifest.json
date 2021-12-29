@@ -1,0 +1,16 @@
+{
+	"name": "rehjxrb",
+	"short_name": "rehjxrb",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-32.png",
+			"sizes": "499x499",
+			"type": "image/png"
+		}
+	]
+}
